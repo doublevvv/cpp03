@@ -6,13 +6,13 @@
 #    By: vlaggoun <vlaggoun@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/04/02 13:42:57 by vlaggoun          #+#    #+#              #
-#    Updated: 2025/04/04 09:57:45 by vlaggoun         ###   ########.fr        #
+#    Updated: 2025/04/04 14:56:51 by vlaggoun         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = claptrap
 
-SOURCES = ClapTrap.cpp main.cpp
+SOURCES = ClapTrap.cpp main.cpp ScavTrap.cpp FlagTrap.cpp
 
 SRCS = $(SOURCES)
 
